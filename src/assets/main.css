@@ -1,0 +1,25 @@
+/* src/assets/main.css */
+:root {
+    --primary-color: #6c5ce7;
+    --secondary-color: #a166ab;
+    --gradient-start: #8b5cf6;
+    --gradient-end: #d946ef;
+    --button-color: #8b5cf6;
+    --button-hover: #7c3aed;
+    --icon-hover:   #888;
+    --input-text: #666;
+    --input-border: #ddd;
+    --text-dark: #333;
+    --text-light: white;
+    --background-light: white;
+    --box-shadow: rgba(0, 0, 0, 0.2);
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--text-light);
+    color: var(--text-dark);
+  }
+  
