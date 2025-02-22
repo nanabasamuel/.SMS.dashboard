@@ -63,7 +63,7 @@ export default {
 }
 
 .extended-section {
-  height: 180px; /* Adjust this value to control how far down the background extends */
+  height: 200px; /* Adjust this value to control how far down the background extends */
   width: 100%;
 }
 
